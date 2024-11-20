@@ -1,0 +1,9 @@
+[
+	{
+		"correct_answers":
+		[
+			"1 2 6 7 -1 4"
+		],
+		"test": "7 40\nkill\nkillall\nrm\nrmdir\nifconfig\nifdown\nll\nkTBlEkTaTEiTcBdTElTExjtuTExjtuBBBBBrTdTE\n"
+	}
+]
