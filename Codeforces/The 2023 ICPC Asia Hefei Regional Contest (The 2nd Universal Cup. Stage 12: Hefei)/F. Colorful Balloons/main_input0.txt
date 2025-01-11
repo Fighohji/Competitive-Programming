@@ -1,0 +1,6 @@
+5
+red
+green
+red
+red
+blue

@@ -1,0 +1,8 @@
+5
+10 4 10 6 10
+5
+check 1 5
+update 2 3 1
+check 1 5
+update 2 3 1
+check 1 5

@@ -1,0 +1,8 @@
+7
+Circle 0 0 5 *
+Circle -2 2 1 @
+Circle 2 2 1 @
+Rectangle 0 -1 0 0 ^
+Rectangle -2 -2 2 -2 _
+Render -5 -5 5 5
+Render -1 0 1 2

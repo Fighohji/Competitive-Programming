@@ -1,0 +1,5 @@
+ 50
+
+ 0
+
+ Segmentation fault (core dumped)

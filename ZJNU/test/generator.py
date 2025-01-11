@@ -203,22 +203,12 @@ def generate_graph(num_nodes, num_edges, allow_cycles=False, connected=True, dir
 
 if __name__ == "__main__":
 
-    T = 1
+    T = 10000
+
     print(T)
 
+    x = 2 * 3 * 5 * 11 * 61 * 131 * 31
+    # print(x)
     for i in range(T):
-        n = 100000
-        tot = random.randint(0, n)
-
-        stu = [i + 1 for i in range(n)]
-        random.shuffle(stu)
-        stu = stu[:tot]
-
-        m = random.randint(0, tot)
-        k = tot - m
-
-        print(n, m, k)
-        print(' '.join(map(str, stu[:m])))
-        pos = random.sample(range(1, n + 1), k)
-        for i in range(k):
-            print(stu[m + i], pos[i])
+        s = random.randint(81747931, 1000000000)
+        print(x, s)

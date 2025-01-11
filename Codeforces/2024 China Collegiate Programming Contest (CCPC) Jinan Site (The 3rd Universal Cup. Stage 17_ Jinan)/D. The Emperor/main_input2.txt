@@ -1,0 +1,2 @@
+1
+POP 1 GOTO 1; PUSH 1 GOTO 1

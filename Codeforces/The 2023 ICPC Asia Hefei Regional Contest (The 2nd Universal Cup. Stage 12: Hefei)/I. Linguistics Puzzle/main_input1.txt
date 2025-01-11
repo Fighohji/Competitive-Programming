@@ -1,0 +1,5 @@
+2
+4
+d a a bc ba bc b a a a d a a cb c c
+4
+a b da b b d ad b db b a c da b c b

@@ -1,0 +1,2 @@
+1
+HALT; PUSH 1 GOTO 1
